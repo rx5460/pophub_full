@@ -56,6 +56,7 @@ PopHub는 사용자들이 다양한 팝업스토어의 정보를 쉽게 찾을 �
 [최종 발표 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/pophub_최종(0622).pptx)
 
 ## 시연 영상
+<img width="1506" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/414daa6d-fcb1-49ed-b44f-d8349fcdc317">
 
 [YouTube 영상](https://www.youtube.com/embed/tQy1lzt-NYc?si=GVYleCcnGuU_XtJd)
 
