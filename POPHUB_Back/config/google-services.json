@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436509704048",
+    "project_id": "pophub-aeb56",
+    "storage_bucket": "pophub-aeb56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436509704048:android:831fcd03c50d539d2dd9b5",
+        "android_client_info": {
+          "package_name": "com.example.testdaw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChR6yFfkzO3Dqi0ZAsz7UlDZWdREYKalc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
