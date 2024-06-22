@@ -32,14 +32,22 @@ PopHub는 사용자들이 다양한 팝업스토어의 정보를 쉽게 찾을 �
 - **디자인**: <img src="https://img.shields.io/badge/figma-430098?style=flat&logo=figma&logoColor=white"/>
 
 
-## 프로젝트 제안
+## 프로젝트 
+### 시스템 구성도
+![image](https://github.com/rx5460/pophub_full/assets/42200731/7d7eef66-f2f9-40cb-9888-33f8248a7296)
 
-ppt 대표 사진 및 링크
+### erd
+![image](https://github.com/rx5460/pophub_full/assets/42200731/00f18164-e06c-4b82-8bc7-cec06804a949)
 
-## 프로젝트 결과
-[발표 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/pophub_최종(0622).pptx)
 
-영상 iframe 처리
+[발표 계획서 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/도파밍_팝허브_프로젝트계획서.pptx)
+[최종 발표 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/pophub_최종(0622).pptx)
+
+[YouTube 영상](https://www.youtube.com/embed/tQy1lzt-NYc?si=GVYleCcnGuU_XtJd)
+
+
+
+
 
 ## 느낀점
 
