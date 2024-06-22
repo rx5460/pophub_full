@@ -2,9 +2,12 @@
 
 ![Pophub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:E6A3B3&height=300&section=header&text=Pophub&fontSize=70&fontColor=FFFFFF)
 
-## 프로젝트 소개
+## 프로젝트 개요
 
 PopHub는 사용자들이 다양한 팝업스토어의 정보를 쉽게 찾을 수 있도록 돕는 다목적 모바일 애플리케이션입니다. 이 앱은 사용자 친화적인 인터페이스와 신뢰성 있는 정보들을 통하여 사용자들이 관심 있는 팝업의 이벤트나 활동들을 알림으로 받아볼 수 있습니다. KakaoMapApi를 사용하여 팝업스토어들의 위치를 쉽고 편리하게 한 눈에 파악할 수 있습니다. 리뷰 작성을 통해 사용자들은 자신이 방문한 팝업스토어에 대한 평가와 경험을 공유할 수 있고, 이를 통해 다른 사용자들도 해당 팝업에 대한 다양한 정보를 얻을 수 있습니다. 팝업 주최 측들은 자신들의 팝업스토어를 효과적으로 홍보하고, 사전 예약 및 굿즈 재고 관리 등을 통해 효율적인 운영을 할 수 있도록 도와줍니다.
+
+## 프로젝트 소개
+<img width="1324" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/cf7ad75e-e906-47cc-86e7-95a60b251203">
 
 
 
@@ -39,15 +42,28 @@ PopHub는 사용자들이 다양한 팝업스토어의 정보를 쉽게 찾을 �
 ### erd
 ![image](https://github.com/rx5460/pophub_full/assets/42200731/00f18164-e06c-4b82-8bc7-cec06804a949)
 
+### cloud firebase database
+![image](https://github.com/rx5460/pophub_full/assets/42200731/05477f97-a0c2-48c3-9631-e5991a69bab2)
+
+## 프로젝트 계획서 ppt
+<img width="1503" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/1bf57fa9-ca1e-493d-98f9-2844e50b4665">
 
 [발표 계획서 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/도파밍_팝허브_프로젝트계획서.pptx)
+
+## 프로젝트 최종 발표 ppt
+<img width="1437" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/c1ec2ab5-f3d6-48f4-838c-aae8257ff1d4">
+
 [최종 발표 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/pophub_최종(0622).pptx)
+
+## 시연 영상
 
 [YouTube 영상](https://www.youtube.com/embed/tQy1lzt-NYc?si=GVYleCcnGuU_XtJd)
 
+## 주요 기능
+![image](https://github.com/rx5460/pophub_full/assets/42200731/8cbb544e-632e-48e1-ba51-cc3b3523e577)
 
-
-
+## 사용자별 기능
+<img width="1356" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/b629f58d-6226-43aa-8c5f-bb4f30604338">
 
 ## 느낀점
 
