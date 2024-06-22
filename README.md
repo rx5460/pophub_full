@@ -11,7 +11,7 @@ PopHub는 사용자들이 다양한 팝업스토어의 정보를 쉽게 찾을 �
 
 ## 팀 멤버 소개
 
-| **김혜현 (백엔드)** | **이진솔 (백엔드)** | **연정흠 (풀스택)** | **황지민 (프론트엔드)** | **김영수 (프론트엔드)** |
+| **김혜현 (백엔드)** | **이진솔 (백엔드)** | **연정흠 (풀스택)** | **황지민 (프론트)** | **김영수 (프론트)** |
 | :------: | :------: | :------: | :------: | :------: |
 | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/e99003c5-26d5-4d09-b548-aeab53c105a5" height=150 width=150> <br/> @Mae-Hyong](https://github.com/Mae-Hyong) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/995e786f-9219-4b11-9944-f1e6ff1df49d" height=150 width=150> <br/> @S-ol9](https://github.com/S-ol9) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/2f9195ee-e54c-4261-862a-d138543a7710" height=150 width=150> <br/> @Promark1225](https://github.com/Promark1225) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/40ace482-4b11-484c-b133-18fdc9767225" height=150 width=150> <br/> @rx5460](https://github.com/rx5460) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/3b86284f-b85f-451c-88dd-3b9b5722f379" height=150 width=150> <br/> @everdudtn](https://github.com/everdudtn) |
 
