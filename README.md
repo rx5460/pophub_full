@@ -54,7 +54,7 @@
 ## 프로젝트 최종 발표 ppt
 <img width="1437" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/c1ec2ab5-f3d6-48f4-838c-aae8257ff1d4">
 
-[최종 발표 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/pophub_최종(0622).pptx)
+[최종 발표 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/도파밍_팝허브_발표.pptx)
 
 ## 시연 영상
 <img width="1506" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/414daa6d-fcb1-49ed-b44f-d8349fcdc317">
