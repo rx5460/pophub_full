@@ -52,7 +52,8 @@
 [발표 계획서 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/도파밍_팝허브_프로젝트계획서.pptx)
 
 ## 프로젝트 최종 발표 ppt
-<img width="1437" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/c1ec2ab5-f3d6-48f4-838c-aae8257ff1d4">
+<img width="1098" alt="image" src="https://github.com/user-attachments/assets/8098b9ad-8fad-4df9-bbc2-ef192fad454e">
+
 
 [최종 발표 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/도파밍_팝허브_발표.pptx)
 
