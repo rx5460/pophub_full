@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rx5460/pophub_front.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Mae-Hyong/POPHUB_Back.git
