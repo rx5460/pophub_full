@@ -4,18 +4,19 @@
 
 ## 프로젝트 개요
 
-#### 1. PopHub는 사용자들이 다양한 팝업스토어의 정보를 쉽게 찾을 수 있도록 돕는 모바일 애플리케이션입니다.<br/>2. 사용자들이 관심 있는 팝업스토어 이벤트나 활동들을 알림으로 받아볼 수 있습니다.<br/>3. 팝업스토어의 위치 및 리뷰 작성을 통해 사용자들은 자신이 방문한 팝업스토어에 대한 평가와 경험을 공유할 수 있고, 이를 통해 다른 사용자들도 해당 팝업에 대한 다양한 정보를 얻을 수 있습니다.
+![슬라이드3](https://github.com/user-attachments/assets/a863148b-a234-48b4-9c73-624ccf8cc2ca)
+![슬라이드5](https://github.com/user-attachments/assets/3cc22c51-300f-4d26-9d58-053b1944e63b)
+
 
 ## 프로젝트 소개
-<img width="1324" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/cf7ad75e-e906-47cc-86e7-95a60b251203">
+![슬라이드6](https://github.com/user-attachments/assets/505ab21c-219f-4c7e-8ffc-fca5d47c40a0)
+
 
 ## 팀 멤버 소개
 
 | **김혜현 (백엔드)** | **이진솔 (백엔드)** | **연정흠 (풀스택)** | **황지민 (프론트)** | **김영수 (프론트)** |
 | :------: | :------: | :------: | :------: | :------: |
 | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/e99003c5-26d5-4d09-b548-aeab53c105a5" height=150 width=150> <br/> @Mae-Hyong](https://github.com/Mae-Hyong) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/995e786f-9219-4b11-9944-f1e6ff1df49d" height=150 width=150> <br/> @S-ol9](https://github.com/S-ol9) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/2f9195ee-e54c-4261-862a-d138543a7710" height=150 width=150> <br/> @Promark1225](https://github.com/Promark1225) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/40ace482-4b11-484c-b133-18fdc9767225" height=150 width=150> <br/> @rx5460](https://github.com/rx5460) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/3b86284f-b85f-451c-88dd-3b9b5722f379" height=150 width=150> <br/> @everdudtn](https://github.com/everdudtn) |
-
-
 
 ## 개발 환경
 
@@ -32,10 +33,11 @@
 
 ## 프로젝트 
 ### 시스템 구성도
-![image](https://github.com/rx5460/pophub_full/assets/42200731/7d7eef66-f2f9-40cb-9888-33f8248a7296)
+![슬라이드7](https://github.com/user-attachments/assets/691ecb0a-bf7f-47f1-a019-0173d2292cb0)
 
 ### erd
-![image](https://github.com/rx5460/pophub_full/assets/42200731/00f18164-e06c-4b82-8bc7-cec06804a949)
+![슬라이드8](https://github.com/user-attachments/assets/f5a8249f-c230-432c-8baf-8733807dd7a9)
+![슬라이드9](https://github.com/user-attachments/assets/7778697d-9b45-4fe4-afdc-cacde118979b)
 
 ### cloud firebase database
 ![image](https://github.com/rx5460/pophub_full/assets/42200731/05477f97-a0c2-48c3-9631-e5991a69bab2)
