@@ -46,11 +46,10 @@
 ![image](https://github.com/rx5460/pophub_full/assets/42200731/8cbb544e-632e-48e1-ba51-cc3b3523e577)
 
 ## 사용자별 기능
-<img width="1356" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/b629f58d-6226-43aa-8c5f-bb4f30604338">
+![슬라이드11](https://github.com/user-attachments/assets/b37343fb-ac20-46c5-bd5a-4a390b0220be)
+
 
 ## 프로젝트 계획서 ppt
-<img width="1503" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/1bf57fa9-ca1e-493d-98f9-2844e50b4665">
-
 [발표 계획서 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/도파밍_팝허브_프로젝트계획서.pptx)
 
 ## 프로젝트 최종 발표 ppt
